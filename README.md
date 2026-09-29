@@ -4,12 +4,12 @@ A machine learning project that detects whether a message is Spam or Not Spam.
 
 Technologies Used:
 
-Python
-Pandas
-Scikit-learn
-Streamlit
-Multinomial Naive Bayes
-CountVectorizer
+Python,
+Pandas,
+Scikit-learn,
+Streamlit,
+Multinomial Naive Bayes,
+CountVectorizer.
 
 How It Works:
 
